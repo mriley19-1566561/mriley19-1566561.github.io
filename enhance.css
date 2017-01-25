@@ -1,0 +1,109 @@
+body{
+	background-image: url("sayagata-400px.png");
+	border: solid 3px gold;
+	width: 800px;
+	margin-left: 1cm;
+	margin-right: 1cm;
+	margin-bottom: 1cm;
+	margin-top: 1cm;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	text-align: center;
+}
+
+h2{
+	color: purple;
+	font-family: "Comic Sans MS";
+	font-family: "Impact";
+	font-size: 60px;
+
+	border: solid 4px gold;
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 20px;
+	text-align: center;
+}
+
+form{
+	display: block;
+    padding-left: 2px;
+    padding-right: 2px;
+    border: 10px;
+}
+
+fieldset{
+
+}
+
+legend {
+	border: solid 2px purple;
+	width: 100px;
+	margin-left: 2cm;
+	margin-right: 2cm;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	text-align: center;
+	border-top: 10px;
+	border-bottom: 10px;
+	border-radius: 10px;
+}
+
+ul{
+	list-style-type: none;
+	padding-left: 0px;
+}
+}
+#Field{
+
+	border: solid 8px black;
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+	text-align: center;
+}
+
+#Header h1{
+
+}
+
+#LeftNav{
+	width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+	border:solid 8px black;
+	float: left;
+	text-align: center;
+	padding-bottom: 8px;
+
+}
+
+#LeftNav img{
+	
+}
+
+#LeftNav ul{
+	
+}
+
+#LeftNAv h3{
+	
+}
+
+#Content{
+	width: 700px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+	border:solid 8px black;
+	text-align: center;
+	padding: 15px;
+}
+
+#Footer{
+	border:solid 8px black;
+	text-align: center;
+}
